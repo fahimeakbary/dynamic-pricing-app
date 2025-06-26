@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/73a56272d0534438b88397f7bda29870/artifacts
+end_time: 1750846666430
+entry_point_name: ''
+experiment_id: '833813272601846475'
+lifecycle_stage: active
+run_id: 73a56272d0534438b88397f7bda29870
+run_name: carefree-seal-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750846606765
+status: 3
+tags: []
+user_id: fakba

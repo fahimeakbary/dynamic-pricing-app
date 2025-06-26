@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/d20a652b2ed448af90204b505f3a2b41/artifacts
+end_time: 1750929410367
+entry_point_name: ''
+experiment_id: '833813272601846475'
+lifecycle_stage: active
+run_id: d20a652b2ed448af90204b505f3a2b41
+run_name: adaptable-moose-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750929409820
+status: 4
+tags: []
+user_id: fakba

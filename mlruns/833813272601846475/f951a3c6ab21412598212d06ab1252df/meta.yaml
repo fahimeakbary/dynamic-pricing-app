@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/f951a3c6ab21412598212d06ab1252df/artifacts
+end_time: 1750846588254
+entry_point_name: ''
+experiment_id: '833813272601846475'
+lifecycle_stage: active
+run_id: f951a3c6ab21412598212d06ab1252df
+run_name: marvelous-moose-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750846517344
+status: 3
+tags: []
+user_id: fakba

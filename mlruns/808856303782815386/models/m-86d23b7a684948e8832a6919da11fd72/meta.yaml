@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/fakba/dynamicpricing/mlruns/808856303782815386/models/m-86d23b7a684948e8832a6919da11fd72/artifacts
+creation_timestamp: 1750364591046
+experiment_id: '808856303782815386'
+last_updated_timestamp: 1750364599342
+model_id: m-86d23b7a684948e8832a6919da11fd72
+model_type: null
+name: model
+source_run_id: da0028682b264b04848c5424ad267412
+status: 2
+status_message: null

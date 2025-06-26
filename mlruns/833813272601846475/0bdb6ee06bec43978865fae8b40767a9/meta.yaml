@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/0bdb6ee06bec43978865fae8b40767a9/artifacts
+end_time: 1750847845420
+entry_point_name: ''
+experiment_id: '833813272601846475'
+lifecycle_stage: active
+run_id: 0bdb6ee06bec43978865fae8b40767a9
+run_name: capable-dog-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750847785124
+status: 3
+tags: []
+user_id: fakba

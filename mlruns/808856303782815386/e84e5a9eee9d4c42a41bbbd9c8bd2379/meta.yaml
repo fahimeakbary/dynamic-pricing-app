@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fakba/dynamicpricing/mlruns/808856303782815386/e84e5a9eee9d4c42a41bbbd9c8bd2379/artifacts
+end_time: 1750364796089
+entry_point_name: ''
+experiment_id: '808856303782815386'
+lifecycle_stage: active
+run_id: e84e5a9eee9d4c42a41bbbd9c8bd2379
+run_name: abundant-yak-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750364787236
+status: 3
+tags: []
+user_id: fakba

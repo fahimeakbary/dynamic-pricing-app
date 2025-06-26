@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/fakba/dynamicpricing/mlruns/808856303782815386
+creation_time: 1750362793238
+experiment_id: '808856303782815386'
+last_update_time: 1750362793238
+lifecycle_stage: active
+name: Churn_RF_Model

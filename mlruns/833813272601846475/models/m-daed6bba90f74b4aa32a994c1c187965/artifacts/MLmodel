@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/models/m-daed6bba90f74b4aa32a994c1c187965/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-daed6bba90f74b4aa32a994c1c187965
+model_size_bytes: 11382220
+model_uuid: m-daed6bba90f74b4aa32a994c1c187965
+prompts: null
+run_id: e256e2ae9bf4461c885739844299af16
+utc_time_created: '2025-06-19 21:15:06.064707'

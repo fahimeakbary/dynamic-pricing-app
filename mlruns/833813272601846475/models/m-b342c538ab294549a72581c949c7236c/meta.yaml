@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/fakba/dynamicpricing/mlruns/833813272601846475/models/m-b342c538ab294549a72581c949c7236c/artifacts
+creation_timestamp: 1750930946529
+experiment_id: '833813272601846475'
+last_updated_timestamp: 1750930974309
+model_id: m-b342c538ab294549a72581c949c7236c
+model_type: null
+name: random_forest_model
+source_run_id: e46480d1e6ab4da99fd4079ccf7ff351
+status: 2
+status_message: null
