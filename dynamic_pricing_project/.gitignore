@@ -1,8 +1,0 @@
-# Ignore dataset files in data/
-data/data_modified.csv
-data/data_modified_clean_totalcharge.csv
-data/WA_Fn-UseC_-Telco-Customer-Churn.csv
-
-# Ignore model files in models/
-models/best_model.pkl
-models/model_columns.pkl
