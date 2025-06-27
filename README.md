@@ -1,0 +1,1 @@
+The aim of this project was to build a machine learning model that predicts a customer's Monthly Charges based on their demographic attributes and subscription behavior in a telecom context. This solution can support dynamic pricing strategies and personalized offers, helping businesses optimize revenue and improve customer satisfaction.
